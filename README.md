@@ -19,7 +19,7 @@ Full-Stack Developer passionate about building scalable SaaS platforms, trading 
 
 ## 📈 GitHub Stats
 
-[![Lobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobi919&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobi919&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lobi919&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

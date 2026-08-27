@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rahul Negi(lobi) 👋
 
 Full-Stack Developer passionate about building scalable SaaS platforms, trading tools, and performant web apps. Experienced in modern stacks for front-end, back-end, and deployment. Currently crafting SEO-optimized projects like Strategy Bender (trading SaaS) and Fish Bite (local business platform).[cite:16]
 
